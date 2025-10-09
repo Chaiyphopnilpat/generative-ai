@@ -1,0 +1,9 @@
+# Test dependencies for sql-talk-app
+pytest==8.3.5
+pytest-cov==6.0.0
+pytest-mock==3.14.0
+
+# Application dependencies
+google-genai==1.9.0
+google-cloud-bigquery==3.31.0
+streamlit==1.44.1
