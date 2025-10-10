@@ -1,0 +1,9 @@
+# Test dependencies for genaisdk-coder
+pytest==8.3.5
+pytest-cov==6.0.0
+pytest-mock==3.14.0
+
+# Application dependencies
+streamlit
+google-genai
+gitingest
